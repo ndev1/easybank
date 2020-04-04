@@ -1,0 +1,30 @@
+@font-face {
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 100;
+    src: url('../fonts/PublicSans-Light.ttf');
+}
+@font-face {
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/PublicSans-Regular.ttf');
+}
+@font-face {
+    font-family: PublicSans;
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/PublicSansItalic.ttf');
+}
+@font-face {
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/PublicSans-Medium.ttf');
+}
+@font-face {
+    font-family: PublicSans;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/PublicSans-Bold.ttf');
+}
